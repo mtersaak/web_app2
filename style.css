@@ -3,10 +3,15 @@ h1,h2{
 	font-family: "Abril Fatface", "sans-serif", Times New Roman;
 }
 h1{
-	color: #FF0000;
+	color: #CB0200;
 }
+h3{
+	color:#ffff;
+	text-align: center;
+}
+
 html{
-	background: purple;
+	background: #0A2570;
 }
 html,head,body{
 	
@@ -14,4 +19,7 @@ html,head,body{
 video{
 	width: 100%;
 	height: 50%;
+}
+.twitter-follow-button{
+	text-align: center;
 }
